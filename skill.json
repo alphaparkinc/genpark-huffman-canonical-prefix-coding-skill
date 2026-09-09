@@ -1,0 +1,17 @@
+{
+  "name": "genpark-huffman-canonical-prefix-coding-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Canonical Huffman Prefix Code Generator & Optimal Bitstream Serialization Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "information-theory",
+    "huffman-coding",
+    "prefix-codes",
+    "data-compression"
+  ]
+}
